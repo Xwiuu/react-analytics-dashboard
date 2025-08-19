@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "wiu@dev.com",
+      "password": "123"
+    }
+  ],
+  "sales": [
+    { "id": 1, "date": "2025-08-18", "value": 1500, "category": "Eletrônicos" },
+    { "id": 2, "date": "2025-08-18", "value": 300, "category": "Livros" },
+    { "id": 3, "date": "2025-08-17", "value": 2200, "category": "Eletrônicos" },
+    { "id": 4, "date": "2025-08-16", "value": 750, "category": "Móveis" },
+    { "id": 5, "date": "2025-08-15", "value": 450, "category": "Livros" },
+    { "id": 6, "date": "2025-08-10", "value": 3100, "category": "Eletrônicos" },
+    { "id": 7, "date": "2025-08-05", "value": 120, "category": "Livros" },
+    { "id": 8, "date": "2025-07-25", "value": 980, "category": "Móveis" }
+  ]
+}
