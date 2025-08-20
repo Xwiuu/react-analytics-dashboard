@@ -6,14 +6,6 @@ Este projeto foi desenvolvido como uma demonstração de habilidades full-stack 
 
 ---
 
-### 📸 Pré-visualização
-
-[INCLUA AQUI UM GIF OU SCREENSHOT DO SEU DASHBOARD FUNCIONANDO]
-
-*Dica: Um GIF mostrando o login, a troca de tema e os filtros em ação é extremamente impactante!*
-
----
-
 ### ✨ Funcionalidades Principais
 
 * 🔐 **Autenticação Completa:** Sistema de login com validação e proteção de rotas. Rotas privadas só são acessíveis por usuários autenticados.
@@ -61,8 +53,8 @@ Siga os passos abaixo para executar o projeto na sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-    cd nome-do-repositorio
+    git clone [ttps://github.com/Xwiuu/react-analytics-dashboard.git](https://github.com/Xwiuu/react-analytics-dashboard.git)
+    cd react-analytics-dashboard
     ```
 
 2.  **Instale as dependências:**
@@ -86,7 +78,7 @@ Siga os passos abaixo para executar o projeto na sua máquina.
 
 5.  **Faça o login:**
     * Use as credenciais definidas no arquivo `db.json`:
-    * **Email:** `irmao@dev.com`
+    * **Email:** `wiu@dev.com`
     * **Senha:** `123`
 
 ---
